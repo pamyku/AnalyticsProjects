@@ -2,7 +2,7 @@
 
 ### Project Overview
 
-Healthcare insurance costs are a result of the expenses related to treatment. Personal attributes like age, gender, family size and medical conditions are sometimes used to determine a client’s insurance payments. This dataset contains information on personal attributes (age, gender, BMI, family size, smoking habits), geographical factors and medical factors (blood pressure and diabetic status). In this project, the data was used to gain insights into how these factors influence insurance claims and the use of regression analysis in estimating healthcare expenses. 
+This project focuses on analysing health insurance claims data to uncover patterns, trends, and insights that can inform decision-making and improve health outcomes. In this project, the data was used to gain insights into how personal, medical and geographical factors influence insurance claims and the use of regression analysis in estimating healthcare expenses. 
 
 ### Dataset
 Dataset: Healthcare Insurance  
