@@ -32,15 +32,30 @@ The EDA involved exploring the data to answer some key questions in the Healthca
 - Correlation matrix to check for relationships between numerical variables
 - Multiple regression analysis to detemine factors that were significantly associated with the claim variable
 
- Here are some images of the plots
+
+ **Here are some images of the plots**
 
 
- ### Findings
+![claim vs smoker](https://github.com/user-attachments/assets/d402f083-37e9-4e9f-a360-7f2f1e89b54f)
+
+
+
+![Claim vs bmi by smoker](https://github.com/user-attachments/assets/a131fa38-61b3-4943-9c39-aee57e6faec6)
+
+
+
+### Findings
  1. There was a noticeable difference in medical expenses between smokers and non-smokers. Higher claims were apparent in smokers. 
  2. Further analyses showed a correlation between BMI and insurance claims, particularly among smokers. As the BMI increased, the medical claim also increased, particularly in smokers.
  3. Significant predictors of claim were smoking status, BMI, number of children, region and blood pressure. 
  4. The best model demonstrated the interaction between smoking and BMI, and it explained 77% of the variation in claims.
- 5. Claims from the North East region were significantly higher than other regions, despite of smoking status. This suggests that while smoking status significantly impacts the claim amount, regional factors also play a crucial role in determining insurance claims. 
+ 5. Claims from the North East region were significantly higher than other regions, despite of smoking status. This suggests that while smoking status significantly impacts the claim amount, regional factors also play a crucial role in determining insurance claims.
+
+
+*A plot show the interraction between smoking and BMI*
+
+
+![Model with interraction](https://github.com/user-attachments/assets/e8c8c9b7-ae88-479c-ae18-6797e9b46e47)
 
 
 The significant gap between the orange and blue lines across all BMI values suggests a strong interaction effect between BMI and smoking status. Smokers with higher BMI have disproportionately higher insurance claims compared to non-smokers with similar BMI. 
@@ -56,5 +71,4 @@ For Healthcare Policy: The strong interaction between smoking and BMI on health-
 - More work is needed to refine the models, like accounting for outliers.
 - It will be good to look at other interractions between the variables
 
-   
- 
+**This is my first github project!!!** 😃 
