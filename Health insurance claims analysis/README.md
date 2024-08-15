@@ -2,7 +2,7 @@
 
 ### Project Overview
 
-This project focuses on analysing health insurance claims data to uncover patterns, trends, and insights that can inform decision-making and improve health outcomes. In this project, the data was used to gain insights into how personal, medical and geographical factors influence insurance claims and the use of regression analysis in estimating healthcare expenses. 
+This project focuses on analysing health insurance claims data to uncover patterns, trends, and insights that could inform decision-making and improve health outcomes. In this project, the dataset provided insights on how personal, medical and geographical factors influence insurance claims and the utility of regression analysis in estimating healthcare expenses. 
 
 ### Dataset
 Dataset: Healthcare Insurance  
@@ -15,7 +15,7 @@ Variables: Age, Sex, BMI, Diabetic, Children, Smoker, Region, Claim (charges inc
  ### Data Cleaning/pre-processing 
  - Loaded and inspected the data including data types
  - Checked for missing values
- - Used descriptive statitics to check data/variable distribution
+ - Used descriptive statistics to check data/variable distribution
  - Filled missing values by the mean (continous variables) and most frequent value (categorical variables)
 
 ### Exploratory Data Analysis
@@ -27,7 +27,7 @@ The EDA involved exploring the data to answer some key questions in the Healthca
 
  ### Data Analysis
 
-- Used scatter plots to assess relationshipbs between healtlth claims and age, blood pressure and BMI.
+- Used scatter plots to assess relationshipbs between health claims and age, blood pressure and BMI.
 - Used box plots to visualise the relationship between claim and categorical variables like smoking status.
 - Correlation matrix to check for relationships between numerical variables
 - Multiple regression analysis to detemine factors that were significantly associated with the claim variable
@@ -52,7 +52,7 @@ The EDA involved exploring the data to answer some key questions in the Healthca
  5. Claims from the North East region were significantly higher than other regions, despite of smoking status. This suggests that while smoking status significantly impacts the claim amount, regional factors also play a crucial role in determining insurance claims.
 
 
-*A plot show the interraction between smoking and BMI*
+*A plot showing the interraction between smoking and BMI*
 
 
 ![Model with interraction](https://github.com/user-attachments/assets/e8c8c9b7-ae88-479c-ae18-6797e9b46e47)
