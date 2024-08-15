@@ -52,6 +52,7 @@ With limited data, decision trees can overfit, meaning they might capture noise 
 **Feature importance**
 
 
+![features](https://github.com/user-attachments/assets/1b265617-f2d3-4987-8354-9b44f5e5f309)
 
 
 
@@ -59,10 +60,17 @@ With limited data, decision trees can overfit, meaning they might capture noise 
 
 Conducted hyper-parameter tuning to find the best n. 
 
-*Accuracy = 62.1%*
+
+![knn-n](https://github.com/user-attachments/assets/c3755dbc-9776-4b69-b38c-76a36818a63e)
 
 
+The final model had an accuracy of:
+- *Accuracy = 62.1%*
 
+### Model improvements
+- Requires a larger sample size
+- More variables like carbon dioxide concentration, air pollution, vegetation etc
+- **Classification trees** Could use ensemble and boosting algorithims for classification
+- **KNN** Experiment with other distance metrics and other parameters.
 
-
-
+**Cheers!!** 😃
