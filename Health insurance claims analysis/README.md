@@ -1,4 +1,4 @@
-## Gaining insights into the factors associated with health claims
+## Factors influencing health insurance claims 
 
 ### Project Overview
 
