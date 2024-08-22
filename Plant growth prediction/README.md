@@ -64,7 +64,7 @@ Conducted hyper-parameter tuning to find the best n.
 ![knn-n](https://github.com/user-attachments/assets/c3755dbc-9776-4b69-b38c-76a36818a63e)
 
 
-The final model had an accuracy of:
+The final model with 15 neighbors had an accuracy of:
 - *Accuracy = 62.1%*
 
 ### Model improvements
