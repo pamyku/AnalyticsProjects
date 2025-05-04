@@ -10,6 +10,7 @@ This project analyses customer data from a European bank to identify patterns li
 
 ### Dataset
 Source: Maven Analytics
+
 Consists of 10,000 customers data on demographics, credit history, bank balance and whether they have churned. 
 
 #### Project overview
