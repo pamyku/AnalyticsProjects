@@ -16,7 +16,7 @@ Consists of 10,000 customers data on demographics, credit history, bank balance 
 - Performed exploratory data analysis (EDA) to understand customer demographics and behaviors.
 - Identified key drivers of churn using statistical and machine learning techniques.
 - Built a classification model to predict the likelihood of a customer churning.
-- Built a dashboard to for easy visualation of churn data by various stakeholders.  
+- Built a dashboard to for easy visualisation of churn data by various stakeholders.  
 
 ### Tools used 
 
